@@ -22,3 +22,5 @@ for _ in range(num_operations):
         setA.update(setB)
 
 print(sum(setA))
+
+
