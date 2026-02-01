@@ -1,5 +1,3 @@
-# (Explanation: 1³ + 5³ + 3³ = 153)
-
 # Problem: Check Armstrong Number
 
 
