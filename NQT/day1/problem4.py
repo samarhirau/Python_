@@ -1,4 +1,4 @@
-def twoSum(self, arr, target):
+def twoSum( arr, target):
     seen = set()
     for num in arr:
         complement = target - num
@@ -10,4 +10,4 @@ def twoSum(self, arr, target):
 # Example usage:
 arr = [10, 15, 3, 7]
 target = 17
-print(twoSum(None, arr, target))  # Output: True
+print(twoSum( arr, target))  # Output: True
