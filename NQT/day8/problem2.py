@@ -21,10 +21,9 @@ def rotate_left(arr, d):
     reverse(d, n - 1)
     
     # 4. Reverse the entire array
-    reverse(0, n - 1)
+    reverse(0, n - 1)   
 
 # Example Usage
 arr = [1, 2, 3, 4, 5]
 d = 2
 rotate_left(arr, d)
-print(arr) # Output: [3, 4, 5, 1, 2]
