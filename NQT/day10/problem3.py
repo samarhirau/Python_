@@ -3,7 +3,7 @@
 
 def frequency_sort(arr):
     freq = {}
-    arr.sort()
+    
     
     for num in arr:
         freq[num] = freq.get(num,  0) + 1
